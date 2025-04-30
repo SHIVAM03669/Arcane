@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#2563EB"/>
+  
+  <!-- House Icon -->
+  <path d="M16 6L28 16H24V26H8V16H4L16 6Z" fill="white"/>
+  
+  <!-- Door -->
+  <rect x="14" y="18" width="4" height="8" fill="#2563EB"/>
+  
+  <!-- Window -->
+  <rect x="11" y="14" width="3" height="3" fill="#2563EB"/>
+  <rect x="18" y="14" width="3" height="3" fill="#2563EB"/>
+</svg> 

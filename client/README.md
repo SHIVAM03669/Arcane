@@ -1,0 +1,1 @@
+in the home page there is a search option when the user search it should redirects to the property records with presearch
