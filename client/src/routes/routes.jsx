@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Form from '../pages/Form';
-import Home from '../pages/home';
+import Home from '../pages/Home';
 import PropertySearchPage from '../pages/PropertySearchPage';
 import EncumbrancePage from '../pages/EncumbrancePage';
 import AboutUs from '../pages/AboutUs';
