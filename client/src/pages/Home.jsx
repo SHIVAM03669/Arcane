@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { languages } from '../translations/translations';
 import { useLanguage } from '../context/LanguageContext';
 import Navbar from '../components/Navbar';
-import ChatbotWidget from '../components/ChatbotWidget';
+import ChatBotWidget from '../components/ChatBotWidget';
 
 const Home = () => {
   const navigate = useNavigate();
@@ -188,7 +188,7 @@ const Home = () => {
       </main>
 
       {/* Chatbot Widget */}
-      <ChatbotWidget />
+      <ChatBotWidget />
 
       {/* Footer Toggle Button */}
       <div 
